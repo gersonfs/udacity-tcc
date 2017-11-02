@@ -1,16 +1,23 @@
 const puppeteer = require('puppeteer');
 
 (async () => {
+    console.log('Iniciando browser');
     const browser = await puppeteer.launch();
-    var pages = [];
+
+    console.log('Criando nova página');
     const page = await browser.newPage();
-    pages.push(page);
+
+    console.log('Acessando a página 1 do primeiro site');
     await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul');
+
+    console.log('Extraindi quantidade de páginas');
     var paginas = await page.evaluate(() => {
         return parseInt($('.pagination-cell')[0].innerText.trim().replace(/1\sde\s/gi, ''));
     });
 
+    console.log('Processando página 1');
     var imoveis = await page.evaluate(getInterpretador());
+
     for(i = 2; i <= paginas; i++) {
         console.log('Processando pagina ' + i);
         await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul?pagina=' + i);
@@ -20,7 +27,7 @@ const puppeteer = require('puppeteer');
         }
     }
 
-    console.log(imoveis.length);
+    console.log(imoveis.length + ' imóveis encontrados!');
 
     await browser.close();
 })();
