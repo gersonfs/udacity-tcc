@@ -1,0 +1,15 @@
+{
+  "name": "udacity-tcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerson Felipe Schwinn <gersonfs@gmail.com> (http://github.com/gersonfs)",
+  "license": "ISC"
+}
