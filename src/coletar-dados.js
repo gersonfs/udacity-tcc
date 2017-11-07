@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 (async () => {
     console.log('Iniciando browser');
@@ -8,35 +9,49 @@ const puppeteer = require('puppeteer');
     const page = await browser.newPage();
 
     console.log('Acessando a página 1 do primeiro site');
-    await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul');
+    await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/casa/santa-cruz-do-sul');
 
-    console.log('Extraindi quantidade de páginas');
+    console.log('Extraindo quantidade de páginas');
     var paginas = await page.evaluate(() => {
         return parseInt($('.pagination-cell')[0].innerText.trim().replace(/1\sde\s/gi, ''));
     });
+
+    console.log(paginas + ' páginas encontradas!');
 
     console.log('Processando página 1');
     var imoveis = await page.evaluate(getInterpretador());
 
     for(i = 2; i <= paginas; i++) {
         console.log('Processando pagina ' + i);
-        await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul?pagina=' + i);
+        await page.goto('http://www.imoveiscatedral.com.br/imoveis/a-venda/casa/santa-cruz-do-sul?pagina=' + i);
         let tmpImoveis = await page.evaluate(getInterpretador());
-        for(ie in tmpImoveis) {
-            imoveis.push(ie);
-        }
+        tmpImoveis.forEach(function(i) {
+            imoveis.push(i);
+        });
     }
 
     console.log(imoveis.length + ' imóveis encontrados!');
+
+    const fd = fs.openSync('imoveis.csv', 'w+');
+    let header = Object.keys(imoveis[0]).join(";") + "\r\n";
+    fs.writeSync(fd, header);
+    imoveis.forEach(function(imovel) {
+        let linha = Object.values(imovel).join(";") + "\r\n";
+        console.log(imovel);
+        fs.writeSync(fd, linha);
+    }, this);
+
+    fs.closeSync(fd);
 
     await browser.close();
 })();
 
 function getInterpretador() {
     return () => {
-        var imoveis = [];
+        let imoveis = [];
         for (x = 0; x < 12; x++) {
             if ($('#b1-c3-c' + x).length === 0) {
+                console.log('entrando no break')
                 break;
             }
 
