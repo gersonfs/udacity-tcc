@@ -197,7 +197,7 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 480000.00;Universitário;;Casa em Santa Cruz do Sul;3;;;188;CA0252-CA1Q;0
 480000.00;Margarida;;Casa em Santa Cruz do Sul;2;;;162;CA0140-CA1Q;0
 490000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;210.83;CA0130-CA1Q;1
-499000.00;Linha Santa Cruz;;Casa em Santa Cruz do Sul;3;;1;175;CA0075-CA1Q;
+499000.00;Linha Santa Cruz;;Casa em Santa Cruz do Sul;3;;1;175;CA0075-CA1Q;0
 450000.00;Centro;;Casa em Santa Cruz do Sul;3;;;215;CA0019-CA1Q;1
 500000.00;João Alves;;Casa em Santa Cruz do Sul;3;;;245;CA0367-CA1Q;1
 500000.00;Country;;Casa em Santa Cruz do Sul;3;;;185;CA0297-CA1Q;1
@@ -247,5 +247,5 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 1150000.00;Universitário;Condomínio 380;Casa em Santa Cruz do Sul;4;;;230;CA0149-CA1Q;0
 1190000.00;Jardim Europa;;Casa em Santa Cruz do Sul;4;;;298.11;CA0240-CA1Q;0
 1280000.00;Higienópolis;;Casa em Santa Cruz do Sul;3;;;300;CA0362-CA1Q;0
-1290000.00;São João;;Casa em Santa Cruz do Sul;3;;;410;CA0138-CA1Q;0
-7000000.00;Centro;;Casa em Santa Cruz do Sul;7;;;1.300;CA0136-CA1Q;0
+1290000.00;São João;;Casa em Santa Cruz do Sul;3;;;610;CA0138-CA1Q;1
+7000000.00;Centro;;Casa em Santa Cruz do Sul;7;;;1300;CA0136-CA1Q;0
