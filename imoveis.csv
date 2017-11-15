@@ -1,251 +1,257 @@
-valor;bairro;obs;tipo;dormitorios;banheiros;vagasGaragem;metragem;codigo;bomInvestimento
-R$ 80.000;Faxinal Menino Deus;;Casa em Santa Cruz do Sul;2;1;1;80;CA0063-CA1Q;
-R$ 80.000;Faxinal Menino Deus;;Casa em Santa Cruz do Sul;2;1;1;100;CA0064-CA1Q;
-R$ 85.000;Margarida;;Casa em Santa Cruz do Sul;2;1;1;50;CA0080-CA1Q;
-R$ 96.000;Arroio Grande;;Casa em Santa Cruz do Sul;;1;1;31;CA0245-CA1Q;
-R$ 100.000;Ana Nery;;Casa em Santa Cruz do Sul;;1;1;56;CA0231-CA1Q;
-R$ 100.000;Bom Jesus;;Casa em Santa Cruz do Sul;3;;;110;CA0086-CA1Q;
-R$ 108.000;Esmeralda;;Casa em Santa Cruz do Sul;;1;1;45,62;CA0083-CA1Q;
-R$ 110.000;Faxinal Velho;;Casa em Santa Cruz do Sul;;1;;45;CA0017-CA1Q;
-R$ 113.000;João Alves;;Casa em Santa Cruz do Sul;2;1;;56,75;CA0214-CA1Q;
-R$ 116.500;João Alves;;Casa em Santa Cruz do Sul;;1;1;54,80;CA0117-CA1Q;
-R$ 117.000;Aliança;;Casa em Santa Cruz do Sul;2;1;;78;CA0260-CA1Q;
-R$ 118.000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;48;CA0134-CA1Q;
-R$ 120.000;Avenida;;Casa em Santa Cruz do Sul;;;1;51;CA0284-CA1Q;
-R$ 120.000;Pedreira;;Casa em Santa Cruz do Sul;2;1;1;67;CA0322-CA1Q;
-R$ 121.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;44,65;CA0271-CA1Q;
-R$ 125.000;São João;;Casa em Santa Cruz do Sul;2;1;1;45;CA0001-CA1Q;
-R$ 125.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;56,36;CA0237-CA1Q;
-R$ 125.000;Rauber;;Casa em Santa Cruz do Sul;2;1;1;40;CA0151-CA1Q;
-R$ 127.700;Renascença;;Casa em Santa Cruz do Sul;3;1;1;84;CA0087-CA1Q;
-R$ 128.000;Bonfim;;Casa em Santa Cruz do Sul;2;;1;120;CA0259-CA1Q;
-R$ 128.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;55,71;CA0339-CA1Q;
-R$ 130.000;Esmeralda;;Casa em Santa Cruz do Sul;2;;;90;CA0254-CA1Q;
-R$ 130.000;São João;;Casa em Santa Cruz do Sul;4;;;120;CA0257-CA1Q;
-R$ 130.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;58;CA0332-CA1Q;
-R$ 130.000;Loteamento Vila Nova;;Casa em Santa Cruz do Sul;2;1;1;88;CA0190-CA1Q;
-R$ 130.000;Aliança;;Casa em Santa Cruz do Sul;2;1;1;80;CA0077-CA1Q;
-R$ 132.500;João Alves;;Casa em Santa Cruz do Sul;;1;1;54,80;CA0115-CA1Q;
-R$ 135.000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;52;CA0085-CA1Q;
-R$ 135.000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;55;CA0165-CA1Q;
-R$ 135.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;69,40;CA0056-CA1Q;
-R$ 138.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;49,90;CA0191-CA1Q;
-R$ 138.000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;64,41;CA0293-CA1Q;
-R$ 138.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;50,62;CA0372-CA1Q;
-R$ 139.000;Monte Verde;;Casa em Santa Cruz do Sul;2;1;1;53;CA0135-CA1Q;
-R$ 139.900;Dona Carlota;;Casa em Santa Cruz do Sul;2;1;1;100;CA0090-CA1Q;
-R$ 140.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0331-CA1Q;
-R$ 140.000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;61,50;CA0003-CA1Q;
-R$ 140.000;Esmeralda;;Casa em Santa Cruz do Sul;2;;1;70;CA0071-CA1Q;
-R$ 140.000;Faxinal Velho;;Casa em Santa Cruz do Sul;2;1;1;70;CA0039-CA1Q;
-R$ 142.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;52,51;CA0373-CA1Q;
-R$ 145.000;Jardim Europa;;Casa em Santa Cruz do Sul;2;1;;63;CA0273-CA1Q;
-R$ 145.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;55;CA0070-CA1Q;
-R$ 145.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;69;CA0347-CA1Q;
-R$ 148.500;Goiás;;Casa em Santa Cruz do Sul;2;1;1;61;CA0169-CA1Q;
-R$ 149.000;João Alves;;Casa em Santa Cruz do Sul;2;;1;59,73;CA0232-CA1Q;
-R$ 149.000;João Alves;;Casa em Santa Cruz do Sul;2;1;;76,38;CA0008-CA1Q;
-R$ 150.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0094-CA1Q;
-R$ 150.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0076-CA1Q;
-R$ 150.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;54;CA0268-CA1Q;
-R$ 150.000;Sena;;Casa em Santa Cruz do Sul;2;1;1;134,62;CA0197-CA1Q;
-R$ 150.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0076-CA1Q;
-R$ 158.000;Esmeralda;;Casa em Santa Cruz do Sul;2;;;100;CA0078-CA1Q;
-R$ 159.000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;60;CA0099-CA1Q;
-R$ 159.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;65;CA0206-CA1Q;
-R$ 159.000;Santo Antônio;;Casa em Santa Cruz do Sul;2;1;1;70;CA0049-CA1Q;
-R$ 159.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;60;CA0102-CA1Q;
-R$ 160.000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;67,83;CA0213-CA1Q;
-R$ 160.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;100;CA0122-CA1Q;
-R$ 160.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;60;CA0203-CA1Q;
-R$ 160.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;99;CA0088-CA1Q;
-R$ 160.000;João Alves;;Casa em Santa Cruz do Sul;2;1;;75,83;CA0346-CA1Q;
-R$ 160.000;Goiás;;Casa em Santa Cruz do Sul;2;;;88;CA0366-CA1Q;
-R$ 160.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;64;CA0157-CA1Q;
-R$ 160.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;71;CA0228-CA1Q;
-R$ 165.000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;125,55;CA0285-CA1Q;
-R$ 165.000;Loteamento Vila Nova;;Casa em Santa Cruz do Sul;2;1;;60;CA0015-CA1Q;
-R$ 170.000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;72;CA0066-CA1Q;
-R$ 170.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;61;CA0156-CA1Q;
-R$ 170.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;60;CA0348-CA1Q;
-R$ 170.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;72;CA0368-CA1Q;
-R$ 170.000;Country;;Casa em Santa Cruz do Sul;2;;1;70;CA0243-CA1Q;
-R$ 170.000;Rauber;;Casa em Santa Cruz do Sul;3;1;;170;CA0041-CA1Q;
-R$ 170.000;Arroio Grande;;Casa em Santa Cruz do Sul;;1;;56;CA0007-CA1Q;
-R$ 175.000;Várzea;;Casa em Santa Cruz do Sul;3;;1;100;CA0082-CA1Q;
-R$ 178.000;Renascença;;Casa em Santa Cruz do Sul;2;1;1;77;CA0325-CA1Q;
-R$ 180.000;Santa Vitória;;Casa em Santa Cruz do Sul;3;;1;112;CA0124-CA1Q;
-R$ 180.000;Bom Jesus;;Casa em Santa Cruz do Sul;3;;;260;CA0084-CA1Q;
-R$ 180.000;São João;;Casa em Santa Cruz do Sul;2;1;1;98;CA0319-CA1Q;
-R$ 180.000;Monte Verde;;Casa em Santa Cruz do Sul;2;1;;50,65;CA0286-CA1Q;
-R$ 180.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;56;CA0037-CA1Q;
-R$ 185.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;;;74;CA0125-CA1Q;
-R$ 185.000;Germânia;;Casa em Santa Cruz do Sul;2;1;;71,65;CA0014-CA1Q;
-R$ 185.000;Aliança;;Casa em Santa Cruz do Sul;3;;1;126;CA0160-CA1Q;
-R$ 187.000;São João;IPTU R$ 431/mês;Casa em Santa Cruz do Sul;2;1;1;74;CA0323-CA1Q;
-R$ 190.000;São João;;Casa em Santa Cruz do Sul;2;1;;60;CA0111-CA1Q;
-R$ 190.000;São João;;Casa em Santa Cruz do Sul;2;1;;87,19;CA0289-CA1Q;
-R$ 192.000;Schulz;;Casa em Santa Cruz do Sul;4;;1;180;CA0182-CA1Q;
-R$ 194.829;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;76;CA0272-CA1Q;
-R$ 195.000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;102;CA0327-CA1Q;
-R$ 195.000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;1;95;CA0061-CA1Q;
-R$ 195.000;Margarida;;Casa em Santa Cruz do Sul;2;1;;80;CA0342-CA1Q;
-R$ 200.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;80,76;CA0194-CA1Q;
-R$ 207.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;137;CA0328-CA1Q;
-R$ 210.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;1;66;CA0223-CA1Q;
-R$ 212.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;81,69;CA0292-CA1Q;
-R$ 212.000;Rauber;;Casa em Santa Cruz do Sul;2;1;;140;CA0261-CA1Q;
-R$ 212.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;81,69;CA0292-CA1Q;
-R$ 212.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;80;CA0345-CA1Q;
-R$ 212.000;Loteamento Santo Antônio;;Casa em Santa Cruz do Sul;3;1;;132;CA0154-CA1Q;
-R$ 212.000;São João;;Casa em Santa Cruz do Sul;2;1;;70;CA0067-CA1Q;
-R$ 212.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;81,69;CA0209-CA1Q;
-R$ 212.086;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;69,70;CA0270-CA1Q;
-R$ 215.000;São João;;Casa em Santa Cruz do Sul;3;1;1;102;CA0176-CA1Q;
-R$ 215.000;Esmeralda;;Casa em Santa Cruz do Sul;4;;1;152;CA0133-CA1Q;
-R$ 222.000;Jardim Europa;;Casa em Santa Cruz do Sul;2;;1;74,48;CA0201-CA1Q;
-R$ 222.600;Dona Carlota;;Casa em Santa Cruz do Sul;3;1;;150;CA0193-CA1Q;
-R$ 234.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;;104,79;CA0155-CA1Q;
-R$ 235.000;João Alves;;Casa em Santa Cruz do Sul;2;;1;89;CA0101-CA1Q;
-R$ 235.000;Castelo Branco;;Casa em Santa Cruz do Sul;2;1;1;116;CA0361-CA1Q;
-R$ 240.000;Vila Bom Jesus;;Casa em Santa Cruz do Sul;3;1;;243;CA0012-CA1Q;
-R$ 240.000;Aliança;;Casa em Santa Cruz do Sul;3;1;1;130;CA0253-CA1Q;
-R$ 240.000;Rauber;;Casa em Santa Cruz do Sul;3;;;153;CA0189-CA1Q;
-Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;
-R$ 242.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;;85;CA0062-CA1Q;
-R$ 242.000;Universitário;;Casa em Santa Cruz do Sul;2;;1;93;CA0340-CA1Q;
-R$ 245.000;Goiás;;Casa em Santa Cruz do Sul;3;1;;;CA0281-CA1Q;
-R$ 245.000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;173;CA0258-CA1Q;
-R$ 245.000;Centro;;Casa em Santa Cruz do Sul;3;;1;100;CA0186-CA1Q;
-R$ 250.000;Germânia;IPTU R$ 520/mês;Casa em Santa Cruz do Sul;2;1;;102;CA0098-CA1Q;
-R$ 250.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;150;CA0081-CA1Q;
-R$ 250.000;São João;;Casa em Santa Cruz do Sul;3;;1;164;CA0282-CA1Q;
-R$ 250.000;Aliança;;Casa em Santa Cruz do Sul;3;;;144;CA0146-CA1Q;
-R$ 250.000;João Alves;;Casa em Santa Cruz do Sul;3;;;130;CA0097-CA1Q;
-R$ 250.000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;102;CA0312-CA1Q;
-R$ 250.000;Ana Nery;;Casa em Santa Cruz do Sul;2;;;95,12;CA0127-CA1Q;
-R$ 250.000;Independência;;Casa em Santa Cruz do Sul;3;;;110;CA0152-CA1Q;
-R$ 252.000;São João;;Casa em Santa Cruz do Sul;3;;;164;CA0105-CA1Q;
-R$ 259.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;;112;CA0103-CA1Q;
-R$ 260.000;Independência;;Casa em Santa Cruz do Sul;3;;1;160;CA0028-CA1Q;
-R$ 260.000;São João;IPTU R$ 700/mês;Casa em Santa Cruz do Sul;3;;;128,90;CA0212-CA1Q;
-R$ 260.000;Centro;;Casa em Santa Cruz do Sul;2;1;;101;CA0317-CA1Q;
-R$ 260.000;Independência;;Casa em Santa Cruz do Sul;3;1;1;80;CA0202-CA1Q;
-R$ 260.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;102;CA0073-CA1Q;
-R$ 260.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;132;CA0354-CA1Q;
-R$ 265.000;Belvedere;;Casa em Santa Cruz do Sul;3;;;110;CA0006-CA1Q;
-R$ 265.000;Goiás;;Casa em Santa Cruz do Sul;4;;1;100;CA0184-CA1Q;
-R$ 270.000;Esmeralda;;Casa em Santa Cruz do Sul;3;;1;160;CA0069-CA1Q;
-R$ 270.000;Universitário;Condomínio R$ 270.000;Casa em Santa Cruz do Sul;3;1;1;75;CA0242-CA1Q;
-R$ 270.000;Monte Verde;IPTU R$ 600/mês;Casa em Santa Cruz do Sul;2;;;113;CA0324-CA1Q;
-R$ 275.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;105;CA0239-CA1Q;
-R$ 280.000;Centro;IPTU R$ 250/mês;Casa em Santa Cruz do Sul;3;;;230;CA0303-CA1Q;
-R$ 280.000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;230;CA0250-CA1Q;
-R$ 280.000;Bonfim;;Casa em Santa Cruz do Sul;2;;;96;CA0159-CA1Q;
-R$ 280.000;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;156;CA0321-CA1Q;
-R$ 285.000;Renascença;;Casa em Santa Cruz do Sul;2;1;;110;CA0180-CA1Q;
-R$ 286.000;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;140;CA0141-CA1Q;
-R$ 286.200;Esmeralda;;Casa em Santa Cruz do Sul;5;;;222,84;CA0255-CA1Q;
-R$ 287.910;Vila Margarida;;Casa em Santa Cruz do Sul;2;;;90;CA0011-CA1Q;
-R$ 290.000;Goiás;;Casa em Santa Cruz do Sul;4;;1;113,94;CA0204-CA1Q;
-R$ 290.000;João Alves;;Casa em Santa Cruz do Sul;2;;1;94;CA0316-CA1Q;
-R$ 292.000;Jardim Europa;;Casa em Santa Cruz do Sul;3;1;1;117,02;CA0294-CA1Q;
-R$ 294.000;Margarida;;Casa em Santa Cruz do Sul;2;1;1;90;CA0358-CA1Q;
-R$ 295.000;Universitário;;Casa em Santa Cruz do Sul;3;1;1;91,96;CA0369-CA1Q;
-R$ 295.000;Santo Inácio;;Casa em Santa Cruz do Sul;2;;1;93,05;CA0266-CA1Q;
-R$ 296.000;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;80;CA0120-CA1Q;
-R$ 296.800;Germânia;;Casa em Santa Cruz do Sul;2;;1;110;CA0178-CA1Q;
-R$ 298.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;1;1;120,66;CA0371-CA1Q;
-R$ 300.000;São João;IPTU R$ 384/ano;Casa em Santa Cruz do Sul;2;1;1;120;CA0356-CA1Q;
-R$ 300.000;Centro;;Casa em Santa Cruz do Sul;2;;;80,22;CA0216-CA1Q;
-R$ 310.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;97,50;CA0113-CA1Q;
-R$ 310.000;Avenida;;Casa em Santa Cruz do Sul;5;;;280;CA0018-CA1Q;
-R$ 316.375;Castelo Branco;;Casa em Santa Cruz do Sul;3;;1;103,24;CA0200-CA1Q;
-R$ 318.000;Renascença;;Casa em Santa Cruz do Sul;3;;1;263,65;CA0132-CA1Q;
-R$ 320.000;Centro;;Casa em Santa Cruz do Sul;3;;1;100;CA0185-CA1Q;
-R$ 320.000;Renascença;IPTU R$ 700/ano;Casa em Santa Cruz do Sul;3;;;135;CA0375-CA1Q;
-R$ 325.000;Renascença;;Casa em Santa Cruz do Sul;3;1;1;94,68;CA0370-CA1Q;
-R$ 330.000;Monte Verde;IPTU R$ 700/mês;Casa em Santa Cruz do Sul;4;;;177;CA0376-CA1Q;
-R$ 330.000;Bom Jesus;;Casa em Santa Cruz do Sul;3;1;;180,61;CA0158-CA1Q;
-R$ 330.000;Jardim Europa;;Casa em Santa Cruz do Sul;2;;;78,48;CA0278-CA1Q;
-R$ 330.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;160;CA0161-CA1Q;
-R$ 330.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;1;138,50;CA0065-CA1Q;
-R$ 340.000;Santo Antônio;;Casa em Santa Cruz do Sul;3;;1;137;CA0256-CA1Q;
-R$ 340.000;Monte Verde;;Casa em Santa Cruz do Sul;3;;;203;CA0246-CA1Q;
-R$ 349.000;Country;;Casa em Santa Cruz do Sul;2;;;150;CA0360-CA1Q;
-R$ 350.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;170;CA0295-CA1Q;
-R$ 350.000;João Alves;;Casa em Santa Cruz do Sul;3;;;150;CA0318-CA1Q;
-R$ 350.000;Renascença;;Casa em Santa Cruz do Sul;3;;1;129;CA0143-CA1Q;
-R$ 350.000;São João;;Casa em Santa Cruz do Sul;3;;;130;CA0235-CA1Q;
-R$ 360.000;Monte Verde;;Casa em Santa Cruz do Sul;3;;;153;CA0236-CA1Q;
-R$ 360.000;Universitário;;Casa em Santa Cruz do Sul;4;;;130;CA0121-CA1Q;
-R$ 390.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;113,74;CA0177-CA1Q;
-R$ 390.000;Santo Antônio;;Casa em Santa Cruz do Sul;3;;;202,35;CA0095-CA1Q;
-R$ 390.000;Margarida;;Casa em Santa Cruz do Sul;3;;1;190;CA0187-CA1Q;
-R$ 400.000;Monte Verde;IPTU R$ 550/ano;Casa em Santa Cruz do Sul;3;;;150;CA0355-CA1Q;
-R$ 413.400;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;118,69;CA0079-CA1Q;
-R$ 415.000;Bonfim;;Casa em Santa Cruz do Sul;3;;1;200;CA0329-CA1Q;
-R$ 425.000;Goiás;;Casa em Santa Cruz do Sul;3;1;;120;CA0241-CA1Q;
-R$ 426.000;Bom Jesus;;Casa em Santa Cruz do Sul;4;;;320;CA0199-CA1Q;
-R$ 430.000;Margarida;;Casa em Santa Cruz do Sul;3;;;172;CA0179-CA1Q;
-R$ 445.000;Renascença;;Casa em Santa Cruz do Sul;3;;;160;CA0274-CA1Q;
-R$ 450.000;Renascença;;Casa em Santa Cruz do Sul;3;1;1;111,20;CA0183-CA1Q;
-R$ 450.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;123;CA0107-CA1Q;
-R$ 450.000;Aliança;;Casa em Santa Cruz do Sul;3;;1;230;CA0023-CA1Q;
-R$ 460.000;Bonfim;;Casa em Santa Cruz do Sul;3;;1;190;CA0365-CA1Q;
-R$ 480.000;Schulz;;Casa em Santa Cruz do Sul;3;;;243,95;CA0310-CA1Q;
-R$ 480.000;Universitário;;Casa em Santa Cruz do Sul;3;;;188;CA0252-CA1Q;
-R$ 480.000;Margarida;;Casa em Santa Cruz do Sul;2;;;162;CA0140-CA1Q;
-R$ 499.000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;3;;1;175;CA0075-CA1Q;
-R$ 500.000;João Alves;;Casa em Santa Cruz do Sul;3;;;245;CA0367-CA1Q;
-R$ 520.000;João Alves;;Casa em Santa Cruz do Sul;3;;;162,80;CA0170-CA1Q;
-R$ 530.000;Centro;;Casa em Santa Cruz do Sul;3;;;215;CA0019-CA1Q;
-R$ 530.000;Goiás;;Casa em Santa Cruz do Sul;3;1;;133,68;CA0137-CA1Q;
-R$ 535.000;Universitário;;Casa em Santa Cruz do Sul;10;;;180;CA0074-CA1Q;
-R$ 540.000;Goiás;;Casa em Santa Cruz do Sul;3;;;225;CA0265-CA1Q;
-R$ 545.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;302;CA0264-CA1Q;
-R$ 550.000;Centro;;Casa em Santa Cruz do Sul;3;;;210;CA0009-CA1Q;
-R$ 550.000;Universitário;;Casa em Santa Cruz do Sul;4;;;230;CA0110-CA1Q;
-R$ 550.000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;210,83;CA0130-CA1Q;
-R$ 550.000;Margarida;;Casa em Santa Cruz do Sul;4;;;194;CA0338-CA1Q;
-R$ 550.000;Ana Nery;;Casa em Santa Cruz do Sul;3;;;250;CA0311-CA1Q;
-R$ 572.000;Country;;Casa em Santa Cruz do Sul;3;;;136;CA0291-CA1Q;
-R$ 580.000;Senai;IPTU R$ 1.394/mês;Casa em Santa Cruz do Sul;2;;;350,65;CA0210-CA1Q;
-R$ 580.000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;238,30;CA0153-CA1Q;
-R$ 580.000;Country;;Casa em Santa Cruz do Sul;3;;;146,76;CA0238-CA1Q;
-R$ 583.000;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;230;CA0188-CA1Q;
-R$ 590.000;Santo Inácio;IPTU R$ 1.000/ano;Casa em Santa Cruz do Sul;3;;1;200;CA0359-CA1Q;
-R$ 590.000;Country;;Casa em Santa Cruz do Sul;3;;;185;CA0297-CA1Q;
-R$ 595.000;Centro;;Casa em Santa Cruz do Sul;3;;;180;CA0175-CA1Q;
-R$ 614.800;Avenida;;Casa em Santa Cruz do Sul;3;;;195;CA0164-CA1Q;
-R$ 640.000;Country;;Casa em Santa Cruz do Sul;3;;;198;CA0016-CA1Q;
-R$ 640.000;Country;;Casa em Santa Cruz do Sul;3;;;160;CA0096-CA1Q;
-R$ 643.159;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;204,18;CA0150-CA1Q;
-R$ 650.000;Centro;;Casa em Santa Cruz do Sul;3;1;;420;CA0131-CA1Q;
-R$ 670.000;Avenida;;Casa em Santa Cruz do Sul;3;;;161;CA0305-CA1Q;
-R$ 680.000;Country;;Casa em Santa Cruz do Sul;3;;;230;CA0208-CA1Q;
-R$ 689.000;Country;;Casa em Santa Cruz do Sul;3;;;182;CA0207-CA1Q;
-R$ 740.000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;190;CA0315-CA1Q;
-R$ 780.000;Universitário;;Casa em Santa Cruz do Sul;3;;;198;CA0244-CA1Q;
-R$ 795.000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;274;CA0343-CA1Q;
-R$ 795.000;Goiás;;Casa em Santa Cruz do Sul;3;;;243;CA0106-CA1Q;
-R$ 825.000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;209,41;CA0326-CA1Q;
-R$ 848.000;Centro;;Casa em Santa Cruz do Sul;3;;1;350;CA0181-CA1Q;
-R$ 860.000;Santo Inácio;;Casa em Santa Cruz do Sul;4;;;306;CA0142-CA1Q;
-R$ 898.000;Goiás;;Casa em Santa Cruz do Sul;3;;;264;CA0145-CA1Q;
-R$ 898.000;Chácara das Freiras;;Casa em Santa Cruz do Sul;4;;;291,87;CA0108-CA1Q;
-R$ 899.000;Avenida;;Casa em Santa Cruz do Sul;5;;1;364;CA0144-CA1Q;
-R$ 900.000;Ana Nery;;Casa em Santa Cruz do Sul;3;;;256,45;CA0198-CA1Q;
-R$ 900.000;Country;Condomínio R$ 450;Casa em Santa Cruz do Sul;3;;;260,68;CA0304-CA1Q;
-R$ 920.000;Centro;;Casa em Santa Cruz do Sul;4;;;264;CA0147-CA1Q;
-R$ 944.000;Jardim Europa;Condomínio R$ 470;Casa em Santa Cruz do Sul;3;;;204,74;CA0139-CA1Q;
-R$ 954.000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;1;204,74;CA0230-CA1Q;
-R$ 980.000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;220;CA0263-CA1Q;
-R$ 990.000;Centro;;Casa em Santa Cruz do Sul;4;;;170;CA0300-CA1Q;
-R$ 1.000.000;Higienópolis;;Casa em Santa Cruz do Sul;4;;;300;CA0283-CA1Q;
-R$ 1.100.000;Universitário;Condomínio R$ 550;Casa em Santa Cruz do Sul;3;;;210,31;CA0247-CA1Q;
-R$ 1.150.000;Universitário;Condomínio R$ 380;Casa em Santa Cruz do Sul;4;;;230;CA0149-CA1Q;
-R$ 1.190.000;Jardim Europa;;Casa em Santa Cruz do Sul;4;;;298,11;CA0240-CA1Q;
-R$ 1.280.000;Higienópolis;;Casa em Santa Cruz do Sul;3;;;300;CA0362-CA1Q;
-R$ 1.290.000;São João;;Casa em Santa Cruz do Sul;3;;;410;CA0138-CA1Q;
-R$ 7.000.000;Centro;;Casa em Santa Cruz do Sul;7;;;1.300;CA0136-CA1Q;
+valor;bairro;obs;tipo;dormitorios;banheiros;vagasGaragem;metragem;codigo
+80000;Faxinal Menino Deus;;Casa em Santa Cruz do Sul;2;1;1;80;CA0063-CA1Q
+80000;Faxinal Menino Deus;;Casa em Santa Cruz do Sul;2;1;1;100;CA0064-CA1Q
+85000;Margarida;;Casa em Santa Cruz do Sul;2;1;1;50;CA0080-CA1Q
+96000;Arroio Grande;;Casa em Santa Cruz do Sul;;1;1;31;CA0245-CA1Q
+100000;Ana Nery;;Casa em Santa Cruz do Sul;;1;1;56;CA0231-CA1Q
+100000;Bom Jesus;;Casa em Santa Cruz do Sul;3;;;110;CA0086-CA1Q
+108000;Esmeralda;;Casa em Santa Cruz do Sul;;1;1;45,62;CA0083-CA1Q
+110000;Faxinal Velho;;Casa em Santa Cruz do Sul;;1;;45;CA0017-CA1Q
+113000;João Alves;;Casa em Santa Cruz do Sul;2;1;;56,75;CA0214-CA1Q
+116500;João Alves;;Casa em Santa Cruz do Sul;;1;1;54,80;CA0117-CA1Q
+117000;Aliança;;Casa em Santa Cruz do Sul;2;1;;78;CA0260-CA1Q
+118000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;48;CA0134-CA1Q
+120000;Avenida;;Casa em Santa Cruz do Sul;;;1;51;CA0284-CA1Q
+120000;Pedreira;;Casa em Santa Cruz do Sul;2;1;1;67;CA0322-CA1Q
+121000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;44,65;CA0271-CA1Q
+125000;São João;;Casa em Santa Cruz do Sul;2;1;1;45;CA0001-CA1Q
+125000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;56,36;CA0237-CA1Q
+125000;Rauber;;Casa em Santa Cruz do Sul;2;1;1;40;CA0151-CA1Q
+127700;Renascença;;Casa em Santa Cruz do Sul;3;1;1;84;CA0087-CA1Q
+128000;Bonfim;;Casa em Santa Cruz do Sul;2;;1;120;CA0259-CA1Q
+128000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;55,71;CA0339-CA1Q
+130000;Esmeralda;;Casa em Santa Cruz do Sul;2;;;90;CA0254-CA1Q
+130000;São João;;Casa em Santa Cruz do Sul;4;;;120;CA0257-CA1Q
+130000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;58;CA0332-CA1Q
+130000;Loteamento Vila Nova;;Casa em Santa Cruz do Sul;2;1;1;88;CA0190-CA1Q
+130000;Aliança;;Casa em Santa Cruz do Sul;2;1;1;80;CA0077-CA1Q
+132500;João Alves;;Casa em Santa Cruz do Sul;;1;1;54,80;CA0115-CA1Q
+135000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;52;CA0085-CA1Q
+135000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;55;CA0165-CA1Q
+135000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;69,40;CA0056-CA1Q
+138000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;49,90;CA0191-CA1Q
+138000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;64,41;CA0293-CA1Q
+138000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;50,62;CA0372-CA1Q
+139000;Monte Verde;;Casa em Santa Cruz do Sul;2;1;1;53;CA0135-CA1Q
+139900;Dona Carlota;;Casa em Santa Cruz do Sul;2;1;1;100;CA0090-CA1Q
+140000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0331-CA1Q
+140000;Progresso;;Casa em Santa Cruz do Sul;2;1;1;69;CA0381-CA1Q
+140000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;66;CA0385-CA1Q
+140000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;61,50;CA0003-CA1Q
+140000;Esmeralda;;Casa em Santa Cruz do Sul;2;;1;70;CA0071-CA1Q
+140000;Faxinal Velho;;Casa em Santa Cruz do Sul;2;1;1;70;CA0039-CA1Q
+142000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;52,51;CA0373-CA1Q
+145000;Jardim Europa;;Casa em Santa Cruz do Sul;2;1;;63;CA0273-CA1Q
+145000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;55;CA0070-CA1Q
+145000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;69;CA0347-CA1Q
+148500;Goiás;;Casa em Santa Cruz do Sul;2;1;1;61;CA0169-CA1Q
+149000;João Alves;;Casa em Santa Cruz do Sul;2;;1;59,73;CA0232-CA1Q
+149000;João Alves;;Casa em Santa Cruz do Sul;2;1;;76,38;CA0008-CA1Q
+150000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0094-CA1Q
+150000;Pedreira;;Casa em Santa Cruz do Sul;2;1;1;;CA0386-CA1Q
+150000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;71;CA0288-CA1Q
+150000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;54;CA0268-CA1Q
+150000;Sena;;Casa em Santa Cruz do Sul;2;1;1;134,62;CA0197-CA1Q
+150000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;62;CA0076-CA1Q
+157000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;69,63;CA0387-CA1Q
+158000;Esmeralda;;Casa em Santa Cruz do Sul;2;;;100;CA0078-CA1Q
+159000;João Alves;;Casa em Santa Cruz do Sul;2;1;1;60;CA0099-CA1Q
+159000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;65;CA0206-CA1Q
+159000;Santo Antônio;;Casa em Santa Cruz do Sul;2;1;1;70;CA0049-CA1Q
+159000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;60;CA0102-CA1Q
+160000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;67,83;CA0213-CA1Q
+160000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;100;CA0122-CA1Q
+160000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;60;CA0203-CA1Q
+160000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;99;CA0088-CA1Q
+160000;João Alves;;Casa em Santa Cruz do Sul;2;1;;75,83;CA0346-CA1Q
+160000;Goiás;;Casa em Santa Cruz do Sul;2;;;88;CA0366-CA1Q
+160000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;71;CA0228-CA1Q
+160000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;64;CA0157-CA1Q
+165000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;125,55;CA0285-CA1Q
+165000;Loteamento Vila Nova;;Casa em Santa Cruz do Sul;2;1;;60;CA0015-CA1Q
+170000;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;72;CA0066-CA1Q
+170000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;61;CA0156-CA1Q
+170000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;60;CA0348-CA1Q
+170000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;72;CA0368-CA1Q
+170000;Country;;Casa em Santa Cruz do Sul;2;;1;70;CA0243-CA1Q
+170000;Rauber;;Casa em Santa Cruz do Sul;3;1;;170;CA0041-CA1Q
+170000;Arroio Grande;;Casa em Santa Cruz do Sul;;1;;56;CA0007-CA1Q
+175000;Várzea;;Casa em Santa Cruz do Sul;3;;1;100;CA0082-CA1Q
+178000;Renascença;;Casa em Santa Cruz do Sul;2;1;1;77;CA0325-CA1Q
+180000;Santa Vitória;;Casa em Santa Cruz do Sul;3;;1;112;CA0124-CA1Q
+180000;Bom Jesus;;Casa em Santa Cruz do Sul;3;;;260;CA0084-CA1Q
+180000;São João;;Casa em Santa Cruz do Sul;2;1;1;98;CA0319-CA1Q
+180000;Monte Verde;;Casa em Santa Cruz do Sul;2;1;;50,65;CA0286-CA1Q
+180000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;;56;CA0037-CA1Q
+180000;Belvedere;;Casa em Santa Cruz do Sul;2;1;1;70,50;CA0382-CA1Q
+185000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;;;74;CA0125-CA1Q
+185000;Germânia;;Casa em Santa Cruz do Sul;2;1;;71,65;CA0014-CA1Q
+185000;Aliança;;Casa em Santa Cruz do Sul;2;1;1;70;CA0384-CA1Q
+185000;Aliança;;Casa em Santa Cruz do Sul;3;;1;126;CA0160-CA1Q
+187000;São João;IPTU R$ 431/mês;Casa em Santa Cruz do Sul;2;1;1;74;CA0323-CA1Q
+190000;São João;;Casa em Santa Cruz do Sul;2;1;;60;CA0111-CA1Q
+190000;São João;;Casa em Santa Cruz do Sul;2;1;;87,19;CA0289-CA1Q
+192000;Schulz;;Casa em Santa Cruz do Sul;4;;1;180;CA0182-CA1Q
+194829;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;76;CA0272-CA1Q
+195000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;102;CA0327-CA1Q
+195000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;95;CA0061-CA1Q
+195000;Margarida;;Casa em Santa Cruz do Sul;2;1;;80;CA0342-CA1Q
+200000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;80,76;CA0194-CA1Q
+207000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;137;CA0328-CA1Q
+210000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;95;CA0380-CA1Q
+210000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;1;66;CA0223-CA1Q
+212000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;81,69;CA0292-CA1Q
+212000;Rauber;;Casa em Santa Cruz do Sul;2;1;;140;CA0261-CA1Q
+212000;Santo Antônio;;Casa em Santa Cruz do Sul;2;1;1;66,50;CA0221-CA1Q
+212000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;80;CA0345-CA1Q
+212000;Loteamento Santo Antônio;;Casa em Santa Cruz do Sul;3;1;;132;CA0154-CA1Q
+212000;São João;;Casa em Santa Cruz do Sul;2;1;;70;CA0067-CA1Q
+212000;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;81,69;CA0209-CA1Q
+212086;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;69,70;CA0270-CA1Q
+215000;São João;;Casa em Santa Cruz do Sul;3;1;1;102;CA0176-CA1Q
+215000;Esmeralda;;Casa em Santa Cruz do Sul;4;;1;152;CA0133-CA1Q
+222000;Jardim Europa;;Casa em Santa Cruz do Sul;2;;1;74,48;CA0201-CA1Q
+222600;Dona Carlota;;Casa em Santa Cruz do Sul;3;1;;150;CA0193-CA1Q
+234000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;;104,79;CA0155-CA1Q
+235000;João Alves;;Casa em Santa Cruz do Sul;2;;1;89;CA0101-CA1Q
+235000;Castelo Branco;;Casa em Santa Cruz do Sul;2;1;1;116;CA0361-CA1Q
+240000;Vila Bom Jesus;;Casa em Santa Cruz do Sul;3;1;;243;CA0012-CA1Q
+240000;Aliança;;Casa em Santa Cruz do Sul;3;1;1;130;CA0253-CA1Q
+240000;Rauber;;Casa em Santa Cruz do Sul;3;;;153;CA0189-CA1Q
+240000;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q
+242000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;;85;CA0062-CA1Q
+242000;Universitário;;Casa em Santa Cruz do Sul;2;;1;93;CA0340-CA1Q
+245000;Goiás;;Casa em Santa Cruz do Sul;3;1;;;CA0281-CA1Q
+245000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;173;CA0258-CA1Q
+245000;Centro;;Casa em Santa Cruz do Sul;3;;1;100;CA0186-CA1Q
+250000;Germânia;IPTU R$ 520/mês;Casa em Santa Cruz do Sul;2;1;;102;CA0098-CA1Q
+250000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;150;CA0081-CA1Q
+250000;São João;;Casa em Santa Cruz do Sul;3;;1;164;CA0282-CA1Q
+250000;Aliança;;Casa em Santa Cruz do Sul;3;;;144;CA0146-CA1Q
+250000;João Alves;;Casa em Santa Cruz do Sul;3;;;130;CA0097-CA1Q
+250000;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;102;CA0312-CA1Q
+250000;Ana Nery;;Casa em Santa Cruz do Sul;2;;;95,12;CA0127-CA1Q
+250000;Independência;;Casa em Santa Cruz do Sul;3;;;110;CA0152-CA1Q
+252000;São João;;Casa em Santa Cruz do Sul;3;;;164;CA0105-CA1Q
+259000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;;112;CA0103-CA1Q
+260000;Independência;;Casa em Santa Cruz do Sul;3;;1;160;CA0028-CA1Q
+260000;São João;IPTU R$ 700/mês;Casa em Santa Cruz do Sul;3;;;128,90;CA0212-CA1Q
+260000;Centro;;Casa em Santa Cruz do Sul;2;1;;101;CA0317-CA1Q
+260000;Independência;;Casa em Santa Cruz do Sul;3;1;1;80;CA0202-CA1Q
+260000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;102;CA0073-CA1Q
+260000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;1;132;CA0354-CA1Q
+265000;Belvedere;;Casa em Santa Cruz do Sul;3;;;110;CA0006-CA1Q
+265000;Goiás;;Casa em Santa Cruz do Sul;4;;1;100;CA0184-CA1Q
+270000;Esmeralda;;Casa em Santa Cruz do Sul;3;;1;160;CA0069-CA1Q
+270000;Universitário;Condomínio R$ 270.000;Casa em Santa Cruz do Sul;3;1;1;75;CA0242-CA1Q
+270000;Monte Verde;IPTU R$ 600/mês;Casa em Santa Cruz do Sul;2;;;113;CA0324-CA1Q
+275000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;2;1;1;105;CA0239-CA1Q
+280000;Centro;IPTU R$ 250/mês;Casa em Santa Cruz do Sul;3;;;230;CA0303-CA1Q
+280000;Faxinal Velho;;Casa em Santa Cruz do Sul;3;;;230;CA0250-CA1Q
+280000;Bonfim;;Casa em Santa Cruz do Sul;2;;;96;CA0159-CA1Q
+280000;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;156;CA0321-CA1Q
+285000;Renascença;;Casa em Santa Cruz do Sul;2;1;;110;CA0180-CA1Q
+286000;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;140;CA0141-CA1Q
+286200;Esmeralda;;Casa em Santa Cruz do Sul;5;;;222,84;CA0255-CA1Q
+287910;Vila Margarida;;Casa em Santa Cruz do Sul;2;;;90;CA0011-CA1Q
+290000;Goiás;;Casa em Santa Cruz do Sul;4;;1;113,94;CA0204-CA1Q
+290000;João Alves;;Casa em Santa Cruz do Sul;2;;1;94;CA0316-CA1Q
+292000;Jardim Europa;;Casa em Santa Cruz do Sul;3;1;1;117,02;CA0294-CA1Q
+294000;Margarida;;Casa em Santa Cruz do Sul;2;1;1;90;CA0358-CA1Q
+295000;Universitário;;Casa em Santa Cruz do Sul;3;1;1;91,96;CA0369-CA1Q
+295000;Santo Inácio;;Casa em Santa Cruz do Sul;2;;1;93,05;CA0266-CA1Q
+296000;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;80;CA0120-CA1Q
+296800;Germânia;;Casa em Santa Cruz do Sul;2;;1;110;CA0178-CA1Q
+298000;Santo Inácio;;Casa em Santa Cruz do Sul;3;1;1;120,66;CA0371-CA1Q
+300000;Centro;;Casa em Santa Cruz do Sul;2;;;80,22;CA0216-CA1Q
+300000;São João;IPTU R$ 384/ano;Casa em Santa Cruz do Sul;2;1;1;120;CA0356-CA1Q
+310000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;97,50;CA0113-CA1Q
+310000;Avenida;;Casa em Santa Cruz do Sul;5;;;280;CA0018-CA1Q
+316375;Castelo Branco;;Casa em Santa Cruz do Sul;3;;1;103,24;CA0200-CA1Q
+318000;Renascença;;Casa em Santa Cruz do Sul;3;;1;263,65;CA0132-CA1Q
+320000;Centro;;Casa em Santa Cruz do Sul;3;;1;100;CA0185-CA1Q
+320000;Renascença;IPTU R$ 700/ano;Casa em Santa Cruz do Sul;3;;;135;CA0375-CA1Q
+325000;Renascença;;Casa em Santa Cruz do Sul;3;1;1;94,68;CA0370-CA1Q
+330000;Monte Verde;IPTU R$ 700/mês;Casa em Santa Cruz do Sul;4;;;177;CA0376-CA1Q
+330000;Bom Jesus;;Casa em Santa Cruz do Sul;3;1;;180,61;CA0158-CA1Q
+330000;Jardim Europa;;Casa em Santa Cruz do Sul;2;;;78,48;CA0278-CA1Q
+330000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;160;CA0161-CA1Q
+330000;Arroio Grande;;Casa em Santa Cruz do Sul;3;1;1;138,50;CA0065-CA1Q
+340000;Santo Antônio;;Casa em Santa Cruz do Sul;3;;1;137;CA0256-CA1Q
+340000;Monte Verde;;Casa em Santa Cruz do Sul;3;;;203;CA0246-CA1Q
+349000;Country;;Casa em Santa Cruz do Sul;2;;;150;CA0360-CA1Q
+350000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;170;CA0295-CA1Q
+350000;João Alves;;Casa em Santa Cruz do Sul;3;;;150;CA0318-CA1Q
+350000;Renascença;;Casa em Santa Cruz do Sul;3;;1;129;CA0143-CA1Q
+350000;São João;;Casa em Santa Cruz do Sul;3;;;130;CA0235-CA1Q
+360000;Monte Verde;;Casa em Santa Cruz do Sul;3;;;153;CA0236-CA1Q
+360000;Universitário;;Casa em Santa Cruz do Sul;4;;;130;CA0121-CA1Q
+390000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;113,74;CA0177-CA1Q
+390000;Margarida;;Casa em Santa Cruz do Sul;3;;1;190;CA0187-CA1Q
+390000;Santo Antônio;;Casa em Santa Cruz do Sul;3;;;202,35;CA0095-CA1Q
+400000;Monte Verde;IPTU R$ 550/ano;Casa em Santa Cruz do Sul;3;;;150;CA0355-CA1Q
+413400;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;118,69;CA0079-CA1Q
+415000;Bonfim;;Casa em Santa Cruz do Sul;3;;1;200;CA0329-CA1Q
+425000;Goiás;;Casa em Santa Cruz do Sul;3;1;;120;CA0241-CA1Q
+426000;Bom Jesus;;Casa em Santa Cruz do Sul;4;;;320;CA0199-CA1Q
+430000;Margarida;;Casa em Santa Cruz do Sul;3;;;172;CA0179-CA1Q
+450000;Renascença;;Casa em Santa Cruz do Sul;3;1;1;111,20;CA0183-CA1Q
+450000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;123;CA0107-CA1Q
+450000;Aliança;;Casa em Santa Cruz do Sul;3;;1;230;CA0023-CA1Q
+460000;Bonfim;;Casa em Santa Cruz do Sul;3;;1;190;CA0365-CA1Q
+480000;Schulz;;Casa em Santa Cruz do Sul;3;;;243,95;CA0310-CA1Q
+480000;Universitário;;Casa em Santa Cruz do Sul;3;;;188;CA0252-CA1Q
+480000;Margarida;;Casa em Santa Cruz do Sul;2;;;162;CA0140-CA1Q
+499000;Linha Santa Cruz;;Casa em Santa Cruz do Sul;3;;1;175;CA0075-CA1Q
+500000;João Alves;;Casa em Santa Cruz do Sul;3;;;245;CA0367-CA1Q
+520000;João Alves;;Casa em Santa Cruz do Sul;3;;;162,80;CA0170-CA1Q
+530000;Centro;;Casa em Santa Cruz do Sul;3;;;215;CA0019-CA1Q
+530000;Goiás;;Casa em Santa Cruz do Sul;3;1;;133,68;CA0137-CA1Q
+535000;Universitário;;Casa em Santa Cruz do Sul;10;;;180;CA0074-CA1Q
+540000;Goiás;;Casa em Santa Cruz do Sul;3;;;225;CA0265-CA1Q
+545000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;302;CA0264-CA1Q
+550000;Centro;;Casa em Santa Cruz do Sul;3;;;210;CA0009-CA1Q
+550000;Universitário;;Casa em Santa Cruz do Sul;4;;;230;CA0110-CA1Q
+550000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;210,83;CA0130-CA1Q
+550000;Margarida;;Casa em Santa Cruz do Sul;4;;;194;CA0338-CA1Q
+550000;Ana Nery;;Casa em Santa Cruz do Sul;3;;;250;CA0311-CA1Q
+572000;Country;;Casa em Santa Cruz do Sul;3;;;136;CA0291-CA1Q
+580000;Senai;IPTU R$ 1.394/mês;Casa em Santa Cruz do Sul;2;;;350,65;CA0210-CA1Q
+580000;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;238,30;CA0153-CA1Q
+580000;Country;;Casa em Santa Cruz do Sul;3;;;146,76;CA0238-CA1Q
+583000;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;230;CA0188-CA1Q
+590000;Santo Inácio;IPTU R$ 1.000/ano;Casa em Santa Cruz do Sul;3;;1;200;CA0359-CA1Q
+590000;Country;;Casa em Santa Cruz do Sul;3;;;185;CA0297-CA1Q
+595000;Centro;;Casa em Santa Cruz do Sul;3;;;180;CA0175-CA1Q
+614800;Avenida;;Casa em Santa Cruz do Sul;3;;;195;CA0164-CA1Q
+640000;Country;;Casa em Santa Cruz do Sul;3;;;198;CA0016-CA1Q
+643159;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;204,18;CA0150-CA1Q
+650000;Centro;;Casa em Santa Cruz do Sul;3;1;;420;CA0131-CA1Q
+670000;Avenida;;Casa em Santa Cruz do Sul;3;;;161;CA0305-CA1Q
+680000;Country;;Casa em Santa Cruz do Sul;3;;;230;CA0208-CA1Q
+689000;Country;;Casa em Santa Cruz do Sul;3;;;182;CA0207-CA1Q
+740000;Santo Antônio;;Casa em Santa Cruz do Sul;2;;;190;CA0315-CA1Q
+780000;Universitário;;Casa em Santa Cruz do Sul;3;;;198;CA0244-CA1Q
+795000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;274;CA0343-CA1Q
+795000;Goiás;;Casa em Santa Cruz do Sul;3;;;243;CA0106-CA1Q
+825000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;209,41;CA0326-CA1Q
+848000;Centro;;Casa em Santa Cruz do Sul;3;;1;350;CA0181-CA1Q
+860000;Santo Inácio;;Casa em Santa Cruz do Sul;4;;;306;CA0142-CA1Q
+898000;Goiás;;Casa em Santa Cruz do Sul;3;;;264;CA0145-CA1Q
+898000;Chácara das Freiras;;Casa em Santa Cruz do Sul;4;;;291,87;CA0108-CA1Q
+899000;Avenida;;Casa em Santa Cruz do Sul;5;;1;364;CA0144-CA1Q
+900000;Ana Nery;;Casa em Santa Cruz do Sul;3;;;256,45;CA0198-CA1Q
+900000;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;300;CA0379-CA1Q
+900000;Country;Condomínio R$ 450;Casa em Santa Cruz do Sul;3;;;260,68;CA0304-CA1Q
+920000;Centro;;Casa em Santa Cruz do Sul;4;;;264;CA0147-CA1Q
+944000;Jardim Europa;Condomínio R$ 470;Casa em Santa Cruz do Sul;3;;;204,74;CA0139-CA1Q
+954000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;1;204,74;CA0230-CA1Q
+980000;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;220;CA0263-CA1Q
+990000;Centro;;Casa em Santa Cruz do Sul;4;;;170;CA0300-CA1Q
+1000000;Higienópolis;;Casa em Santa Cruz do Sul;4;;;300;CA0283-CA1Q
+1100000;Universitário;Condomínio R$ 550;Casa em Santa Cruz do Sul;3;;;210,31;CA0247-CA1Q
+1150000;Universitário;Condomínio R$ 380;Casa em Santa Cruz do Sul;4;;;230;CA0149-CA1Q
+1190000;Jardim Europa;;Casa em Santa Cruz do Sul;4;;;298,11;CA0240-CA1Q
+1280000;Higienópolis;;Casa em Santa Cruz do Sul;3;;;300;CA0362-CA1Q
+1290000;São João;;Casa em Santa Cruz do Sul;3;;;410;CA0138-CA1Q
+7000000;Centro;;Casa em Santa Cruz do Sul;7;;;1300;CA0136-CA1Q

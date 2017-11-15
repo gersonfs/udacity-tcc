@@ -56,6 +56,9 @@ function getInterpretador() {
             }
 
             let valor = $('#b1-c3-c' + x + ' .h-money.location')[0].innerText;
+            valor = valor.replace('R$ ', '');
+            valor = valor.replace(/\./g, '');
+            valor = valor.replace(',', '.');
             let bairro = $('#b1-c3-c' + x + ' h4.card-title')[0].innerText;
             let obs = null;
             if($('#b1-c3-c' + x + ' .info-right.text-xs-right').length > 0) {
@@ -78,7 +81,8 @@ function getInterpretador() {
 
                 switch (nome) {
                     case 'm²':
-                        metragem = valor;    
+                        metragem = valor;
+                        metragem = metragem.replace(/\./g, '');
                         break;
                 
                     case 'vaga':

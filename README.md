@@ -1,10 +1,13 @@
 # udacity-tcc
-Trabalho de conclusão do curso de Machine Learning da Udacity
+Trabalho de conclusão do curso de Machine Learning da Udacity. 
 
-Páginas para extrair os imóveis:
+## Dependências para o robô
+- É necessário a instalação do programa node.js no seguinte link: https://nodejs.org/en/ . A versão 8.9.x foi a usada no robô para coleta de dados
+- Em seguinda, na pasta deste projeto, deve-se instalar as dependências NPM, executando `npm install`
 
-http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul
-http://www.imoveiscatedral.com.br/imoveis/a-venda/apartamento+casa+cobertura+chacara/santa-cruz-do-sul?pagina=2
+## Dependências para visualizar o código para treinamento e testes
+- É necessário o utilitário `jupyter notebook ` para rodar o código de exemplo no arquivo `TCC.ipynb`
 
-https://www.borbaimoveis.com.br/imoveis/a-venda/rs/santa-cruz-do-sul/apartamento,casa,chacara,cobertura?valor_min=&valor_max=&ordem=valor_max
-https://www.borbaimoveis.com.br/imoveis/a-venda/rs/santa-cruz-do-sul/apartamento,casa,chacara,cobertura?valor_min=&valor_max=&ordem=valor_max&pagina=2
+## Para rodar o robô
+- Para executar o robô que faz a coleta de imóveis, execute `node src/coletar-dados.js`
+- Será criado um arquivo  imoveis.csv que será usado pelo programa proposto para avaliação dos imóveis.
