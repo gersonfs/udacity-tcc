@@ -58,7 +58,7 @@ valor;bairro;obs;tipo;dormitorios;banheiros;vagasGaragem;metragem;codigo;bomInve
 160000.00;Esmeralda;;Casa em Santa Cruz do Sul;2;1;1;67.83;CA0213-CA1Q;0
 160000.00;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;;100;CA0122-CA1Q;0
 160000.00;Arroio Grande;;Casa em Santa Cruz do Sul;2;1;1;60;CA0203-CA1Q;0
-160000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;99;CA0088-CA1Q;0
+160000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;;99;CA0088-CA1Q;0
 160000.00;João Alves;;Casa em Santa Cruz do Sul;2;1;;75.83;CA0346-CA1Q;0
 160000.00;Goiás;;Casa em Santa Cruz do Sul;2;;;88;CA0366-CA1Q;0
 160000.00;Arroio Grande;;Casa em Santa Cruz do Sul;2;;1;64;CA0157-CA1Q;0
@@ -144,7 +144,7 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 280000.00;Bonfim;;Casa em Santa Cruz do Sul;2;;;96;CA0159-CA1Q;0
 280000.00;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;156;CA0321-CA1Q;0
 285000.00;Renascença;;Casa em Santa Cruz do Sul;2;1;;110;CA0180-CA1Q;0
-286000.00;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;280;CA0141-CA1Q;1
+286000.00;Santo Inacio;;Casa em Santa Cruz do Sul;2;1;1;280;CA0141-CA1Q;1
 286200.00;Esmeralda;;Casa em Santa Cruz do Sul;5;;;222.84;CA0255-CA1Q;0
 287910.00;Vila Margarida;;Casa em Santa Cruz do Sul;2;;;90;CA0011-CA1Q;0
 290000.00;Goiás;;Casa em Santa Cruz do Sul;4;;1;113.94;CA0204-CA1Q;0
@@ -152,13 +152,13 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 292000.00;Jardim Europa;;Casa em Santa Cruz do Sul;3;1;1;117.02;CA0294-CA1Q;0
 294000.00;Margarida;;Casa em Santa Cruz do Sul;2;1;1;90;CA0358-CA1Q;0
 295000.00;Universitário;;Casa em Santa Cruz do Sul;3;1;1;160;CA0369-CA1Q;1
-295000.00;Santo Inácio;;Casa em Santa Cruz do Sul;2;;1;93.05;CA0266-CA1Q;0
-296000.00;Santo Inácio;;Casa em Santa Cruz do Sul;2;1;1;80;CA0120-CA1Q;0
+295000.00;Santo Inacio;;Casa em Santa Cruz do Sul;2;;1;93.05;CA0266-CA1Q;0
+296000.00;Santo Inacio;;Casa em Santa Cruz do Sul;2;1;1;80;CA0120-CA1Q;0
 296800.00;Germânia;;Casa em Santa Cruz do Sul;2;;1;110;CA0178-CA1Q;0
-298000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;1;1;120.66;CA0371-CA1Q;0
+298000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;1;1;120.66;CA0371-CA1Q;0
 300000.00;São João;IPTU 384/ano;Casa em Santa Cruz do Sul;2;1;1;120;CA0356-CA1Q;0
 300000.00;Centro;;Casa em Santa Cruz do Sul;2;;;80.22;CA0216-CA1Q;0
-310000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;97.50;CA0113-CA1Q;0
+310000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;;97.50;CA0113-CA1Q;0
 310000.00;Avenida;;Casa em Santa Cruz do Sul;5;;;280;CA0018-CA1Q;0
 316375.00;Castelo Branco;;Casa em Santa Cruz do Sul;3;;1;103.24;CA0200-CA1Q;0
 318000.00;Renascença;;Casa em Santa Cruz do Sul;3;;1;263.65;CA0132-CA1Q;0
@@ -179,24 +179,24 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 350000.00;São João;;Casa em Santa Cruz do Sul;3;;;130;CA0235-CA1Q;0
 360000.00;Monte Verde;;Casa em Santa Cruz do Sul;3;;;153;CA0236-CA1Q;0
 360000.00;Universitário;;Casa em Santa Cruz do Sul;4;;;130;CA0121-CA1Q;0
-390000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;113.74;CA0177-CA1Q;0
+390000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;1;113.74;CA0177-CA1Q;0
 390000.00;Santo Antônio;;Casa em Santa Cruz do Sul;3;;;202.35;CA0095-CA1Q;0
 390000.00;Margarida;;Casa em Santa Cruz do Sul;3;;1;190;CA0187-CA1Q;0
 400000.00;Monte Verde;IPTU 550/ano;Casa em Santa Cruz do Sul;3;;;150;CA0355-CA1Q;0
-413400.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;1;118.69;CA0079-CA1Q;0
+413400.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;1;118.69;CA0079-CA1Q;0
 415000.00;Bonfim;;Casa em Santa Cruz do Sul;3;;1;200;CA0329-CA1Q;0
 425000.00;Goiás;;Casa em Santa Cruz do Sul;3;1;;120;CA0241-CA1Q;0
 426000.00;Bom Jesus;;Casa em Santa Cruz do Sul;4;;;320;CA0199-CA1Q;0
 430000.00;Margarida;;Casa em Santa Cruz do Sul;3;;;172;CA0179-CA1Q;0
 445000.00;Renascença;;Casa em Santa Cruz do Sul;3;;;160;CA0274-CA1Q;0
 450000.00;Renascença;;Casa em Santa Cruz do Sul;3;1;1;111.20;CA0183-CA1Q;0
-450000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;123;CA0107-CA1Q;0
+450000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;;123;CA0107-CA1Q;0
 450000.00;Aliança;;Casa em Santa Cruz do Sul;3;;1;230;CA0023-CA1Q;0
 460000.00;Bonfim;;Casa em Santa Cruz do Sul;3;;1;190;CA0365-CA1Q;0
 480000.00;Schulz;;Casa em Santa Cruz do Sul;3;;;243.95;CA0310-CA1Q;0
 480000.00;Universitário;;Casa em Santa Cruz do Sul;3;;;188;CA0252-CA1Q;0
 480000.00;Margarida;;Casa em Santa Cruz do Sul;2;;;162;CA0140-CA1Q;0
-490000.00;Santo Inácio;;Casa em Santa Cruz do Sul;3;;;210.83;CA0130-CA1Q;1
+490000.00;Santo Inacio;;Casa em Santa Cruz do Sul;3;;;210.83;CA0130-CA1Q;1
 499000.00;Linha Santa Cruz;;Casa em Santa Cruz do Sul;3;;1;175;CA0075-CA1Q;0
 450000.00;Centro;;Casa em Santa Cruz do Sul;3;;;215;CA0019-CA1Q;1
 500000.00;João Alves;;Casa em Santa Cruz do Sul;3;;;245;CA0367-CA1Q;1
@@ -215,7 +215,7 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 580000.00;Arroio Grande;;Casa em Santa Cruz do Sul;3;;;238.30;CA0153-CA1Q;0
 580000.00;Country;;Casa em Santa Cruz do Sul;3;;;146.76;CA0238-CA1Q;0
 583000.00;Arroio Grande;;Casa em Santa Cruz do Sul;4;;;230;CA0188-CA1Q;0
-590000.00;Santo Inácio;IPTU 1.000/ano;Casa em Santa Cruz do Sul;3;;1;200;CA0359-CA1Q;0
+590000.00;Santo Inacio;IPTU 1.000/ano;Casa em Santa Cruz do Sul;3;;1;200;CA0359-CA1Q;0
 595000.00;Centro;;Casa em Santa Cruz do Sul;3;;;180;CA0175-CA1Q;0
 614800.00;Avenida;;Casa em Santa Cruz do Sul;3;;;195;CA0164-CA1Q;0
 640000.00;Country;;Casa em Santa Cruz do Sul;3;;;298;CA0016-CA1Q;1
@@ -232,7 +232,7 @@ Sob consulta;Avenida;;Casa em Santa Cruz do Sul;3;;1;98;CA0307-CA1Q;0
 795000.00;Goiás;;Casa em Santa Cruz do Sul;3;;;243;CA0106-CA1Q;0
 825000.00;Jardim Europa;;Casa em Santa Cruz do Sul;3;;;209.41;CA0326-CA1Q;0
 848000.00;Centro;;Casa em Santa Cruz do Sul;3;;1;350;CA0181-CA1Q;0
-860000.00;Santo Inácio;;Casa em Santa Cruz do Sul;4;;;306;CA0142-CA1Q;0
+860000.00;Santo Inacio;;Casa em Santa Cruz do Sul;4;;;306;CA0142-CA1Q;0
 898000.00;Goiás;;Casa em Santa Cruz do Sul;3;;;264;CA0145-CA1Q;0
 898000.00;Chácara das Freiras;;Casa em Santa Cruz do Sul;4;;;291.87;CA0108-CA1Q;0
 899000.00;Avenida;;Casa em Santa Cruz do Sul;5;;1;364;CA0144-CA1Q;0
